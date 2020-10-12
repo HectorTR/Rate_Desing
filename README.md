@@ -1,4 +1,4 @@
-# Rate_Desing
+# Rate Desing
  
 The structure of electricity charges desing and the optimal revenue requirement for utilities in California using the computational power of GridLAB-D based on the granularity and load diversity.
 
